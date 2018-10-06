@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899870022381",
+    "firebase_url": "https://tutorials-4b983.firebaseio.com",
+    "project_id": "tutorials-4b983",
+    "storage_bucket": "tutorials-4b983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899870022381:android:3ad54404e0fae8a5",
+        "android_client_info": {
+          "package_name": "com.example.samrat.tutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899870022381-t0e723590fiiriikrhhcng9c86ta8e7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samrat.tutorials",
+            "certificate_hash": "d1aa92019a2b47db1235d6e02fc821ecf6a4790a"
+          }
+        },
+        {
+          "client_id": "899870022381-0vlp0ut4hvu8bfig08q3fr090j7td7mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-J2ZRNs4oKASl9qTFJt-kn1zQGZ4Iqlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899870022381-0vlp0ut4hvu8bfig08q3fr090j7td7mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
